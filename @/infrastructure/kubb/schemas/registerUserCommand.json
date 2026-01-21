@@ -1,0 +1,1 @@
+{"required":["email","password","userName"],"type":"object","properties":{"userName":{"type":"string","nullable":true},"email":{"type":"string","nullable":true},"password":{"type":"string","nullable":true}},"additionalProperties":false,"x-readme-ref-name":"RegisterUserCommand"}

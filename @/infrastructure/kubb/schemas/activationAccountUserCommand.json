@@ -1,0 +1,1 @@
+{"required":["code"],"type":"object","properties":{"code":{"type":"string","nullable":true}},"additionalProperties":false,"x-readme-ref-name":"ActivationAccountUserCommand"}
